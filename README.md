@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhatniphat&label=Profile%20views&color=0e75b6&style=flat" alt="jhatniphat" /> </p>
 
-- 🌱 I’m currently learning **vue.js , angular.ts**
+- 🌱 I’m currently learning **vue.js , angular.ts** , **robot framework**
 
-- 📫 How to reach me **jhatniphat.sara@kmutt.ac.th**
+- 📫 How to reach me **jhatniphat.sara@kmutt.ac.th** , **jhatniphat.sara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
